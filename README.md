@@ -24,7 +24,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurmukhammaddev" alt="nurmukhammaddev" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/nurmuhammaddev" target="_blank"><img src="https://img.shields.io/badge/-@nurmuhammaddev-3423A6?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/nurmuhammad_mashrapov" target="_blank"><img src="https://img.shields.io/badge/-@nurmuhammad-3423A6?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nurmuhammad-mashrapov" target="_blank"><img src="https://img.shields.io/badge/-Nurmuhammad%20Mashrapov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
