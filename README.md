@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Django, Drf, PostgreSql, MySql, Html5, Css3, Bootstrap, git, GitHub**
 
-- 📫 How to reach me **nurmukhammaddev@gmail.com**
+- 📫 How to reach me **mashrapov@gmail.com**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurmukhammaddev&show_icons=true&locale=en&theme=tokyonight" alt="nurmukhammaddev" /></p>
